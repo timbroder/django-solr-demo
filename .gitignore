@@ -1,0 +1,5 @@
+.pydevproject
+.project
+myenv/
+app/app/local_settings.py
+*bak
