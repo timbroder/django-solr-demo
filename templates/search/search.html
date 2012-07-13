@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+
+{% block hero_text %}Search{% endblock %}
+{% block header %}<p>Click around!</p>{% endblock %}
+
+
+{% block content %}
+<div class="span12">
+    <h1>Search</h1>
+    <form method="get" action="." class=".form-search">
+        <table>
+            {{ form.as_table }}
+        </table>
+        <input type="submit" value="Search">
+    </form>
+</div>
+        {% if query %}
+            <div class="span2">
+                <h3>Filter</h3>
+                {% if facets.fields.type %}
+                    <div>
+                        <h4>Type</h4>
+                        <ul>
+                        {% for type in facets.fields.type %}
+                            <li><a href="{{ request.get_full_path }}&amp;selected_facets=type_exact:{{ type.0|urlencode }}">{{ type.0 }}</a> ({{ type.1 }})</li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+                {% if facets.fields.location %}
+                    <div>
+                        <h4>Location</h4>
+                        <ul>
+                        {% for location in facets.fields.location %}
+                            <li><a href="{{ request.get_full_path }}&amp;selected_facets=location_exact:{{ location.0|urlencode }}">{{ location.0 }}</a> ({{ location.1 }})</li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+            </div>
+            <div class="span6">
+                <h3>Results</h3>
+                <div class="accordion" id="accordion2">
+                    {% for result in page.object_list %}
+                        {% include 'search/_result_object.html' %}
+                    {% empty %}
+                        <p>No results found.</p>
+                    {% endfor %}
+                </div>
+    
+                {% if page.has_previous or page.has_next %}
+                    <div>
+                        {% if page.has_previous %}<a href="?q={{ query }}&amp;page={{ page.previous_page_number }}">{% endif %}&laquo; Previous{% if page.has_previous %}</a>{% endif %}
+                        |
+                        {% if page.has_next %}<a href="?q={{ query }}&amp;page={{ page.next_page_number }}">{% endif %}Next &raquo;{% if page.has_next %}</a>{% endif %}
+                    </div>
+                {% endif %}
+            </div>
+        {% else %}
+            <div class="span6">
+                {# Show some example queries to run, maybe query syntax, something else? #}
+            </div>
+        {% endif %}
+{% endblock %}

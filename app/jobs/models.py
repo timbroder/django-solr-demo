@@ -32,6 +32,12 @@ class Job(models.Model):
     company = models.ForeignKey(Company, related_name='jobs')
     location = models.ForeignKey(Location, related_name='location_jobs')
     contact_email = models.EmailField(blank=True, null=True)
+    added_at = models.DateTimeField(auto_now=True)
     
     def __unicode__(self):
         return self.name
+    
+    def get_contact_email(self):
+        if self.contact_email:
+            return self.contact_email
+        return self.company.contact_email

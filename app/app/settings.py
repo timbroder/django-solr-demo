@@ -121,6 +121,8 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'jobs',
     'south',
+    'haystack',
+    'django_extensions'
 )
 
 # A sample logging configuration. The only tangible logging
@@ -150,6 +152,15 @@ LOGGING = {
             'propagate': True,
         },
     }
+}
+
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.solr_backend.SolrEngine',
+        'URL': 'http://127.0.0.1:8983/solr'
+        # ...or for multicore...
+        # 'URL': 'http://127.0.0.1:8983/solr/mysite',
+    },
 }
 
 from local_settings import *

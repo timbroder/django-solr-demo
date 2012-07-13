@@ -1,0 +1,36 @@
+{% load more_like_this %}
+
+
+{% with obj=result.object %}
+<div class="accordion-group">
+    <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse_{{ obj.id }}">
+            {{ obj.name }}
+        </a>
+        <div style="padding: 8px 15px;">
+            <p>Company: {{ obj.company }}</p>
+            <p>Type: {{ obj.type }}</p>
+            {% if obj.salary %}<p>Salary: {{ obj.salary }}</p>{% endif %}
+            <p>Location: {{ obj.location }}</p>
+        </div>
+    </div>
+    <div id="collapse_{{ obj.id }}" class="accordion-body collapse in">
+        <div class="accordion-inner">
+            <p>Contact: <a href="mailto:{{ obj.get_contact_email }}">{{ obj.get_contact_email }}</a></p>
+            {{ obj.description }}
+            {% more_like_this obj as related_content limit 5  %}
+            {% if related_content %}
+                <div>
+                    <br>
+                    <p><strong>Related:</strong></p>
+                    <ul>
+                        {% for related in related_content %}
+                            <li><a>{{ related.object.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endwith %}
