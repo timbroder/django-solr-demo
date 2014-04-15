@@ -2,4 +2,5 @@
 {{ object.description }}
 {{ object.salary }}
 {{ object.type }}
+{{ object.location.city }}
 {{ object.added_at }}

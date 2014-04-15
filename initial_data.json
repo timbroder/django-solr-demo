@@ -1,0 +1,642 @@
+[
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "twitter@twitter.com",
+            "name": "Twitter"
+        },
+        "model": "jobs.company",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "facebook@facebook.com",
+            "name": "Facebook"
+        },
+        "model": "jobs.company",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "google@gmail.com",
+            "name": "Google"
+        },
+        "model": "jobs.company",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "careers@teslamotors.com",
+            "name": "Tesla Motors"
+        },
+        "model": "jobs.company",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "ubisoft@ubisoft.com",
+            "name": "Ubisoft"
+        },
+        "model": "jobs.company",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "oculus@oculus.com",
+            "name": "Oculus"
+        },
+        "model": "jobs.company",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "creditit@union.com",
+            "name": "Credit Union"
+        },
+        "model": "jobs.company",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "address": "",
+            "contact_email": "kforce@kforce.com",
+            "name": "Kforce"
+        },
+        "model": "jobs.company",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        "model": "jobs.location",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "city": "New York",
+            "state": "NY"
+        },
+        "model": "jobs.location",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "city": "Washington",
+            "state": "DC"
+        },
+        "model": "jobs.location",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "city": "Boston",
+            "state": "MA"
+        },
+        "model": "jobs.location",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "city": "Dallas",
+            "state": "TX"
+        },
+        "model": "jobs.location",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "city": "Chicago",
+            "state": "IL"
+        },
+        "model": "jobs.location",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "city": "Mountain View",
+            "state": "CA"
+        },
+        "model": "jobs.location",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "city": "Palo Alto",
+            "state": "CA"
+        },
+        "model": "jobs.location",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:41:59.734Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Ready to soar into a daring future? #JoinTheFlock\r\nAt Twitter, our mission is to reach every person on the planet. To do that we need to effectively scale our engineering organization. Come be a catalyst for a transformation from ad hoc to agile methods. We are looking for an agile coach that combines consumer product and growth expertise with the ability to enable teams to improve their productivity, throughput and predictability through a transformation to agile methods.\r\nThe ideal candidate has successfully transformed a consumer internet company from ad hoc to agile methods.\r\nRole & Responsibilities\r\nDrive the organization-wide agile transformation strategy and rollout plans\r\nDesign and deliver transformational agile training for engineering managers, product managers, development teams, and executives\r\nCoach development teams, engineering managers, product managers and stakeholders on applying lean principles to their specific products and work environment\r\nEmbrace servant leadership and demonstrate behaviors in line with lean principles\r\nEvaluate team metrics and make recommendations to teams and management for improvements.\r\nEstablish yourself as a thought leader in the agile community through speaking and writing\r\nIdentify opportunities to continuously optimize and improve of the whole company\r\nExperience & Skills\r\n10 years experience in a product company, in a variety of roles from developer to leader, manager or coach\r\n5 years of hands-on experience with scrum, kanban and other agile practices\r\nStrong presentation, coaching and facilitation skills\r\nCapable of multitasking and transforming multiple teams at once\r\nExperience with coaching Executives\r\nAble to work with individuals and teams across all levels within the company\r\nAble to influence peers / managers and build consensus while dealing with ambiguity\r\nPlays well as a member of a team\r\nExcellent communication skills\r\nPreferred Qualifications & Ideal Candidates\r\nCertified Scrum Coach or Kanban Coaching Professional\r\nHands-on experience with highly-available, scalable software and services\r\nHands-on experience with experimentation and data driven decisions in an agile environment\r\nHands-on experience with data centre engineering and Platform as a Service products\r\nStrong track record of shipping projects with broad customer impact\r\nProven ability to identify and resolve systemic issues\r\nActive Twitter user",
+            "location": 1,
+            "name": "Agile Coach",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:43:17.841Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Twitter is looking for experienced mobile engineers to help us make Twitter for Android one of the best mobile experiences out there.  \r\n\r\n\r\nResponsibilities\r\n\r\nBuild compelling new experiences in feature areas such as Search, Discover, Lists, DMs and more\r\n\r\nUse your in-depth knowledge of all things Android to craft new Twitter features that are uniquely Android-based\r\n\r\nDevelop strong skills and best practices on the team through participation in design and code reviews\r\n\r\nBe an Android educator and mentor within Twitter; help us grow Android development capability throughout the company\r\n\r\n\r\nRequirements\r\n\r\nLove for building mobile applications and detailed knowledge of Android (or a strong desire to learn)\r\n\r\nTop-notch programming skills in an object-oriented language like Java or C++\r\n\r\nBS or MS in Computer Science or equivalent work experience\r\n\r\nPassion for delivering the best user experience possible on mobile\r\n\r\nWork and play well with others; Twitter is a collaborative environment\r\n\r\n\r\nDesired\r\n\r\nPrevious experience developing mobile applications (on any platform)\r\n\r\nInterest in sharing the best of your work at Twitter at conferences, meetups, etc",
+            "location": 1,
+            "name": "Android Software Engineer",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:44:10.308Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "The SMB Global Sales Intelligence team is looking to add another Software Engineer to the team who will be responsible for helping the SMB Sales team drive global initiatives for Twitter's Small and Medium Business (SMB) advertisers. The team utilizes a data driven, analytical and programmatic approach to design and execute programs that generate significant revenue growth. We do this by partnering extensively with cross-functional teams across Sales, Marketing, Product and Engineering.\r\n\r\nAs an Engineer within SMB you will have the opportunity to work with some of the world\u2019s most highly-scaled distributed systems. Our core infrastructure receives hundreds of millions of tweets per day and serves tens of billions of API requests, all with an uptime in excess of 99.9%.\r\n\r\nResponsibilities:\r\n\r\nBuild and maintain software systems, both large and small, to be used by the SMB sales and marketing teams.\r\n\r\nEngineer and troubleshoot complex systems built in the context of Twitter's service-oriented architecture\r\n\r\nWrite code that is performant, maintainable, clear, and concise\r\n\r\nDiagnose, and troubleshoot complex distributed problems and develop solutions\r\n\r\nWork cross-functionally with various engineering and sales teams\r\n\r\nRequirements:\r\n\r\nBS, MS, or PhD in Computer Science, or equivalent work experience.\r\n\r\nExpertise in at least one the following languages: Scala, Java, or Python\r\n\r\nExperienced with the entire SDLC; from design to launch\r\n\r\nStrong algorithms and data structures background.\r\n\r\nWell-versed in the software engineering best practices (e.g. unit testing, code reviews, design documentation).\r\n\r\nAbility to multi-task efficiently and work in a fast paced, startup-like environment\r\n\r\nDesired:\r\n\r\nPrevious experience with Hadoop, Scalding, Thrift/Protocol Buffers, SQL/Vertica or other relational databases, and/or Linux\r\n\r\nExperience with the business-side of things\r\n",
+            "location": 1,
+            "name": "Data Engineer - Sales",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:44:48.343Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "About this Role:\r\n\r\nWe are looking for an experienced Vertica Database Engineer that wants to work in a complex and dynamic database environment. We are looking to add to a team that is laying the groundwork for our services to scale in an efficient and reliable way.\r\n\r\nResponsibilities\r\n\r\nThe Vertica DBA is responsible for architecting and operating the Vertica database clusters. You will work with other Senior and Junior DBAs, Site Reliability Engineers, and Product Engineers to investigate problems, implement solutions, achieve efficiency gains, and automate repetitive tasks. You will have a strong work ethic, the ability to keep complex tasks organized, and an amazing attention to detail.\r\n\r\nRequirements:\r\n\r\n3+ years of experience with Vertica Administration and expertise in VSQL.\r\n\r\nExpertise in installing and maintaining Vertica clusters and implementing backup and recovery processes\r\n\r\nGood working knowledge of Vertica database architecture (column orientation, compression, projections, segmentations, partitions, high availability and security).\r\n\r\nDemonstrated in-depth knowledge of database internals and data structures.\r\n\r\nHands-on experience with database optimization and tuning.\r\n\r\nExperience with ETL and Data Warehouse systems\r\n\r\nStrong familiarity with a scripting language\r\n\r\nPluses:\r\n\r\nKnowledge of system tools such as netstat, lsof, iostat, vmstat, and others, and the ability to deploy that knowledge in production-critical investigations\r\n\r\nFamiliarity with syste-ms-automation tools such as puppet or chef\r\n",
+            "location": 1,
+            "name": "Database Administrator - Vertica",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:45:32.525Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Twitter.com operates at massive scale, serving billions of requests per day while connecting hundreds of millions of active Twitter users to real-time information about what\u2019s relevant in their lives and the world we live in. We work on one of the world\u2019s largest websites, handling hundreds of millions of tweets per day.\r\n\r\nWe have openings for frontend engineers on the Web Platform team. You\u2019ll be working with the latest features of JavaScript in ES6 and ES7, using tools and libraries like React, Alt, Webpack, Babel and others.\r\n\r\nCandidates will be expected to demonstrate their JavaScript skills by building a simple React app.\r\n\r\n\r\nResponsibilities:\r\n\r\nWrite code in JavaScript, HTML and CSS\r\n\r\nImplement new features and optimize existing ones\r\n\r\nWork closely with your team including product management, interaction designers, and backend engineers\r\n\r\nRapidly fix bugs and solve problems\r\n\r\nProactively look for ways to make Twitter better\r\n\r\n \r\n\r\nRequirements:\r\n\r\nB.S. or higher in Computer Science (or equivalent work experience)\r\n\r\nA passion for making beautiful, smooth, delightful web experiences on desktop and mobile.\r\n\r\nAn understanding of the need for encapsulated UI code.\r\n\r\nBroad knowledge of the JavaScript ecosystem.\r\n\r\nSolid understanding of the full web technology stack (e.g. HTTP, cookies, headers, asset loading / caching)\r\n\r\nDisciplined approach to writing tests and quality assurance\r\n\r\nUnderstanding of core CS concepts such as: common data structures and algorithms, profiling/optimization\r\n\r\nAn understanding of the principles of accessibility and the ability to build interfaces accessible to users with disabilities.\r\n",
+            "location": 1,
+            "name": "Frontend Software Engineer - Web Apps",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:46:37.244Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Twitter connects hundreds of millions of users to real-time information about the world we live in. The New York engineering team is developing new products and technology to provide users with timely, relevant and personalized information.  We\u2019re incorporating the Twitter social graph which is a massive corpus of real-time information, and numerous interesting data signals. Behind the scenes, we are building highly scalable distributed systems, and the algorithms necessary to make sense of all this data \u2014 all within a matter of milliseconds.  \r\n\r\nWe are looking forAndroid Engineers to join our New York team to help make Twitter the best source of real-time content in the world. \r\n\r\nResponsibilities:\r\n\r\nBuild exciting experiences around search and discover on Twitter's Android clients\r\nWork closely with other engineering teams, product management and design\r\nRapidly fix bugs and solve problems\r\nConduct design and code reviews\r\nProactively look for ways to make Twitter better\r\nRequirements:\r\n\r\nBS or MS in Computer Science or equivalent work experience\r\nExcellent OO programming skills in Java\r\nExperience building applications in memory and bandwidth-constrained systems\r\nPassion for delivering great user experience\r\nExperience tuning performance of client applications\r\nStrong communication and documentation skills\r\nDesired:\r\n\r\nAndroid SDK experience\r\nAbility to innovate and partner with our design team to build multiple prototypes quickly\r\nExperience releasing successful mobile applications to the Apple App store or Android Marketplace\r\nExperience with multiple mobile platforms\r\nActive user of Twitter\r\nActive Twitter API developer\r\n",
+            "location": 2,
+            "name": "Android, Software Engineer",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:47:51.426Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "With the launch of our Mobile App Promotion product suite, Twitter has an opportunity to change the way app developers acquire new users and engage with existing customers.\r\n\r\n\r\nTwitter is creating a world-class team of Mobile Specialists in our newest and quickly growing Sales Organization of Ads Product Sales Specialists. As Mobile Specialist you will be apart of a cross-channel effort working closely with Sales, Product, Marketing, and Ad Operations to deliver Mobile App revenue. If you love diving deep on product and being on the front lines of our most strategic deals, then this is the job for you.\r\n\r\n\r\nAs Mobile Specialist you are product expert and top seller. You will educate the Sales team on how to strategically sell against mobile developer goals in addition to leading meetings with top mobile app advertisers. You are responsible for hitting a specific product revenue target, which means you must work closely with the Sales team in your assigned verticals to drive product adoption and revenue growth.  This is a fast-paced, high energy, direct sales and product role requiring industry expertise, the ability to consistently grow revenue, and be solutions oriented.  In addition to meeting and exceeding your revenue targets, you will be a key part of helping us grow Twitter and it\u2019s mobile app advertising business.  \r\n\r\n\r\nSuccess looks like:\r\n\r\nGrow our business in a way that makes us proud by providing world class service to our advertisers.\r\n\r\nCommunicate fearlessly to build long lasting relationships with advertisers.\r\n\r\nSimplify Twitter as a platform for advertisers.\r\n\r\nInnovate through experimentation to create solutions for advertisers.  \r\n\r\nShip it meeting revenue targets through flawless campaign execution.\r\n\r\nBe rigorous to become a true Twitter product expert on our platform.\r\n\r\n\r\nResponsibilities:\r\n\r\nBe a partner to our Product and Product marketing team to deliver timely market feedback on current betas and future product roleouts.\r\n\r\nCollaborate with Sales and their advertiser to understand client goals & objectives, recommend best practices, sell strategically, craft solutions and develop innovative and effective campaigns.\r\n\r\nContinually hone Twitter product expertise in order to optimize advertising campaigns and deliver client value.\r\n\r\nDeliver value to Twitter Sales team via deep product knowledge, strong analytical abilities, communication skills and deep subject matter expertise of Twitter\u2019s Mobile App product suite.\r\n\r\nReport on larger product trends via advertiser feedback and internal Twitter dashboards\r\n\r\nResolve campaign issues in a timely and productive manner, and identifying and implementing process improvements.\r\n\r\nStrengthen and grow client relationships, upsell new ideas, and drive contract completion and renewals.\r\n\r\n\r\nMinimum Qualifications:\r\n\r\nBA/BSc degree (In lieu of degree, 4 years relevant experience).\r\n\r\n\r\nPreferred Qualifications:\r\n\r\n4 to 6 years of related experience in the digital or media industry.\r\n\r\nMotivated team player who consistently strives to exceed goals and push revenue expectations.\r\n\r\nStrong drive to beat targets, relentlessly positive attitude and incredible work ethic.\r\n\r\nAbility to think creatively and critically and thrive in a fast-paced, dynamic, and often ambiguous work environment.\r\n\r\nStrong quantitative background in finding trends and opportunities within data.\r\n\r\nExcellent communication and presentation skills, attention to detail, and a bias for proactively resolving issues.\r\n\r\nWilling to travel.\r\n\r\nInfectious passion around Twitter.\r\n",
+            "location": 2,
+            "name": "Mobile App Specialist",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:48:35.074Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Twitter connects hundreds of millions of users to real-time information about the world we live in. The New York engineering team is developing new products and technology to provide users with timely, relevant and personalized information.  We\u2019re incorporating the Twitter social graph which is a massive corpus of real-time information, and numerous interesting data signals. Behind the scenes, we are building highly scalable distributed systems, and the algorithms necessary to make sense of all this data \u2014 all within a matter of milliseconds.  Every day we are pushing the boundaries, we work with data at a scale that is unmatched, impacting millions of lives around the world every second. We are looking for talented people to join our small, entrepreneurial New York team to help make Twitter the best source of real-time content in the world.\r\n\r\nWe are looking for Mobile Engineers to join our New York team to help make Twitter the best source of real-time content in the world. \r\n\r\nResponsibilities:\r\n\r\nBuild exciting experiences around search and discover on Twitter's iPhone and iPad clients\r\nWork closely with other engineering teams, product management and design\r\nRapidly fix bugs and solve problems\r\nConduct design and code reviews\r\nProactively look for ways to make Twitter better\r\nRequirements:\r\n\r\nBS or MS in Computer Science or equivalent work experience\r\nExcellent OO programming skills in Objective-C \r\nExperience building applications in memory and bandwidth-constrained systems\r\nPassion for delivering great user experience\r\nExperience tuning performance of client applications\r\nStrong communication and documentation skills\r\nDesired:\r\n\r\niOS SDK experience\r\nAbility to innovate and partner with our design team to build multiple prototypes quickly\r\nExperience releasing successful mobile applications to the Apple App store or Android Marketplace\r\nExperience with multiple mobile platforms\r\nActive user of Twitter\r\nActive Twitter API developer",
+            "location": 2,
+            "name": "iOS, Software Engineer",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:50:29.773Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Interested in revolutionizing the mobile development landscape?  Read on.\r\n\r\n\r\nFabric, a modular mobile platform recently launched by Twitter makes it easy for developers to build great apps. With Fabric, Twitter is taking a major step, moving from a company solely focused on building and monetizing a great consumer app, to a mobile services company playing a key role in the broader mobile ecosystem. Fabric brings together the best of Twitter and a number of our recent acquisitions:\r\n\r\n\r\nCrashlytics' crash reporting, beta testing and analytics\r\n\r\nTwitter's login, Tweet compose, and Tweet embeds\r\n\r\nMoPub's monetization platform for mobile apps\r\n\r\nDigits, an entirely-new mobile-first identity solution.\r\n\r\n\r\nIt brings these services together into a single, powerful, modular, cross-platform SDK. Our goal is to be the first SDK developers include in their app, and thereby become a core part of every app on iOS and Android.\r\n\r\n\r\nSound cool? Great - because we are looking for an engineer that is a champion of development, and who loves writing code and spreading that emotion to others!\r\n\r\n\r\nAbout You\r\n\r\nYou\u2019re smart, get stuff done, have great energy, and thrive in a fast paced environment.\r\n\r\nYou\u2019re passionate about mobile, especially Android, and you\u2019ve built something for the platform -  either as part of a job or as a personal project.\r\n\r\nYou love to code and have a proven track record of building applications in Java or any other mobile/web language (Ruby/Python/Objective-C, etc.)\r\n\r\n\r\nIn addition, it would be great if\r\n\r\nYou have previous experience developing SDKs or frameworks.\r\n\r\nYou\u2019re an active contributor to any open source projects.\r\n\r\nYou\u2019ve had previous exposure to building large scale services on the web.\r\n\r\nYou\u2019re interested in sharing the innovative work you do at conferences, meetups, etc.\r\n\r\n\r\nAbout Us\r\n\r\nWe're looking for truly talented engineers with a passion for clean code and great products. Our team is fast, smart and independent -- located in both Cambridge, MA and San Francisco, CA.\r\n\r\n\r\nJust a few of the things that set us apart:\r\n\r\nWe love feedback - you\u2019ll be able to connect directly with customers who are using what you\u2019re building and use their input to make the product better.\r\n\r\nWe ship - we're huge fans of TDD, build/measure/learn, and are moving towards continuous deployment.\r\n\r\nWe give back - We encourage open source contributions and community participation.\r\n\r\nWe\u2019re hyper technical - Deep understanding and optimization are in our soul - what can your code accomplish in 18ms?\r\n",
+            "location": 4,
+            "name": "Fabric - Android Engineer",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:51:05.145Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Summary\r\n\r\n\r\nTwitter is transforming how users around the world are interacting with their elected officials and connecting to real-time news and information. This is your opportunity to help drive this change, filling a temporary staffing need with the Twitter Government & Politics team through the remainder of the year to facilitate top content around key events from government officials, agencies and candidates on Twitter.\r\n\r\n\r\nResponsibilities\r\n\r\n\r\nSupport efforts for planning and execution of multiple government and political events as well as coordination with other teams internally.\r\n\r\nProvide front-line technical support to planning and production teams of political events and other government, political and news users of Twitter, solving problems and escalating to internal support and policy teams as needed.\r\n\r\nAssist in preparation of training and presentation materials, including Keynote presentations, case studies, training handouts, and/or best practice guides.\r\n\r\nConduct research into discussion of government, political and news events on Twitter, working with other Twitter team members to identify key metrics and narrative-boosting examples of successful use.\r\n\r\nExecute routine management tasks for the Government & Politics team, including coordinating internal and external meetings, managing partner outreach, maintaining contact lists, and coordinating travel and shipping logistics.\r\n\r\nOther duties as assigned.\r\n\r\n\r\nRequirements\r\n\r\n\r\nBA/BS degree\r\n\r\n1-3 years experience in government or politics or in special event coordination, with deep familiarity across all three disciplines\r\n\r\nStrong organizational abilities \u2014 you\u2019ll be spinning a lot of plates\r\n\r\nDemonstrated communication and interpersonal skills\r\n\r\n\u201cBeyond the beltway\u201d knowledge of local, state and international government and politics a plus",
+            "location": 3,
+            "name": "Events Associate",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:51:50.482Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "Twitter\u2019s Boston QA team is seeking a Senior Systems QA engineer to write automated tests for cutting edge projects for Media.  You will work with the most popular technologies in the world. You will work on our small team, own the components that you work on, and be involved from design through deployment to ensure we ship the highest quality software.\r\n\r\nResponsibilities:\r\n\r\nDesign, write, execute and maintain end-to-end, acceptance and regression tests using Python and Scala for multiple products.\r\n\r\nDetermine when components meet acceptable quality criteria and standards and give the go-ahead for release to production.\r\n\r\nWork with the tv development teams to design and incorporate entry points and instrumentation in the code for testing frameworks to use.\r\n\r\nRequirements:\r\n\r\nStrong communication and documentation skills\r\n\r\nFlexible, able to shift priorities quickly, \u201cdo what needs to be done\u201d attitude\r\n\r\nStrong working knowledge of Python, Java, Scala\r\n\r\nWorking knowledge of SQL, MySQL or equivalent db systems\r\n\r\nHighly organized and detail oriented.\r\n\r\nAbility to work autonomously with minimal direction\r\n\r\n5+ years of experience\r\n\r\nDesired:\r\n\r\nExperience on start-up teams",
+            "location": 4,
+            "name": "Software QA - Systems",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:52:20.651Z",
+            "company": 1,
+            "contact_email": "",
+            "description": "You will build web applications for our users, partners, and team. Those applications can range from business-critical internal tools to the core architecture of Twitter.com and our mobile website, with opportunities to work with a variety of languages and technologies.\r\n\r\n\r\nWe have openings for Web Application engineers on multiple teams.\r\n\r\n\r\nResponsibilities\r\n\r\nWrite code in Scala, Ruby, Javascript, and HTML/CSS\r\n\r\nImplement new features and optimize existing ones from controller-level to UI\r\n\r\nWork closely with, and incorporate feedback from, product management, interaction designers, and back-end engineers\r\n\r\nRapidly fix bugs and solve problems\r\n\r\nProactively look for ways to make Twitter better\r\n\r\n\r\nRequirements\r\n\r\nB.S. or higher in Computer Science (or equivalent work experience)\r\n\r\nVery strong in one of the following:\r\n\r\nAbility to create an interface in HTML, CSS and JavaScript.  Proficiency creating applications in one server side framework: NodeJS, Rails, J2EE, Scala, etc.\r\n\r\nSolid understanding of the full web technology stack (e.g. HTTP, cookies, headers, asset loading / caching)\r\n\r\nDisciplined approach to testing and quality\r\n\r\nUnderstanding of CS concepts such as: common data structures and algorithms, profiling/optimization\r\n\r\n\r\nDesired\r\n\r\nGithub profile or link to open source work\r\n\r\nVisual design skills\r\n\r\nKnowledge of cross-browser quirks\r\n\r\nInterest in mobile and touch-based web platform\r\n\r\nActive user of Twitter\r\n\r\nGreat written communication and documentation abilities\r\n\r\nData-informed product development: analytics, A/B testing, etc.\r\n\r\nExperience with TDD (test-driven development)\r\n",
+            "location": 4,
+            "name": "TV Software Engineer, Full Stack",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:55:12.890Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nEvery day, more than 250 million people access Facebook using Android mobile devices from across the world. The Facebook Mobile team constantly pushes the boundaries of the Facebook Mobile experience, as a leader in an exciting and fast-paced industry that is evolving daily. We are seeking full-time Android Engineers to join the Mobile team. As a Facebook Mobile Software Engineer, you will specialize in building elegant products on world-class technologies that bring the Facebook experience to hundreds of millions of people, anytime and anywhere. \r\n\r\nWe are looking for someone that has strong experience developing user interfaces for applications on Android using Android SDK. If you are interested in joining a world-class team of passionate people and industry veterans who like to work hard and play hard, we look forward to hearing from you soon!\r\nResponsibilities\r\nWork closely with our product and design teams to customize the Facebook experience for the Android platform\r\nPrototype new and redesign features\r\nStrong coding abilities and experience with Java and Android SDK\r\nA focus on UI design principles and making apps work intuitively\r\nContribute best-in-class programming skills to develop highly innovative, consumer-facing mobile products\r\nRequirements\r\nB.S. or M.S. Computer Science or 4+ years in relevant work experience\r\n3+ years of object-oriented software development experience\r\n2+ years building Android applications in Java\r\n2+ years mobile application development experience (Android, J2ME or Blackberry)\r\nExperience in understanding large and complex code bases, including API design techniques to help keep them clean and maintainable.\r\nProficient in the following technologies: Java language and related frameworks Multi-Threading and memory management specific to mobile devices Understanding of caching mechanisms\r\n\r\nAs part of our dedication to the diversity of our workforce, Facebook is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.\r\nApply now\r\n",
+            "location": 4,
+            "name": "Software Engineer, Android",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:56:10.100Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nFacebook\u2019s Security Infrastructure team is seeking a passionate engineer to help keep our billion users safe from real world threats. You will help detect potential issues before they escalate by building scalable systems to surface malicious activity; assist investigations by building tools to collect evidence and fight crime on Facebook. Have a large impact on individual users by protecting them from physical harm.\r\nResponsibilities\r\nImplement abuse detection systems to surface threats\r\nImplement evidence collection tools for Facebook products\r\nAssist investigations regarding crimes on Facebook\r\nWork closely with user operations and legal to help establish guidelines to keep Facebook safe\r\nRequirements\r\nB.S. or M.S. in Computer Science, related field, or equivalent experience\r\nKnowledge of C++ or Java\r\nKnowledge of a scripting language (Perl, PHP, or Python)\r\nKnowledge of relational databases and SQL, preferably MySQL\r\nKnowledge of web technologies: XHTML, JavaScript\r\nHigh levels of creativity and quick problem solving capabilities",
+            "location": 3,
+            "name": "Safety and Security Software Engineer, Intern",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:56:50.405Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nThe Security Infrastructure team builds infrastructure that makes it easier to write secure code at Facebook. Our goal is to make the site safer while actually increasing other engineers' productivity. We create libraries that provide common services like authentication and encryption, and we work with teams to integrate those libraries into their products. We use a combination of static and dynamic analysis to identify common security problems such as XSS and SQL injection. We tend to focus on the security of our backend services rather than the frontend codebase, but we're willing to work on anything that will make the site safer.\r\nResponsibilities\r\nDevelop tools to find security problems automatically\r\nBuild infrastructure and libraries to provide security by default\r\nLook for security bugs in our codebase\r\nKeep an eye out for new classes of bugs that we should be tackling\r\nRequirements\r\nStrong programming experience\r\nExtensive knowledge of internet security issues like XSS and SQL injection\r\nKnowledge of C++ or Java\r\nExperience with an interpreted language like PHP or Python\r\nA passion for keeping people safe\r\n",
+            "location": 4,
+            "name": "Software Engineer, Security Infrastructure",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:57:16.492Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nThe Safety Investigations and Protection team within Facebook Information Security analyzes current trends in user safety, investigates cases, and develops solutions to mitigate future risk. The team is looking for an experienced investigator with a passion for investigation and analysis, cybercrime, and problem solving. This is a cross-functional role that works closely with Operations, Engineering, Policy, and External Outreach teams. The position can be based in Menlo Park, Dublin, or Washington D.C.\r\nResponsibilities\r\nLead investigations into accounts to identify sources of abusive behavior\r\nSummarize and present information from investigations and reports to internal teams\r\nIdentify and consult on the design of countermeasures to stop abuse\r\nGather and synthesize relevant data, suggesting improvements in the tools and techniques to help scale the team and mitigate future risk\r\nInterface with legal, law enforcement, and industry partners when appropriate\r\nRequirements\r\nBachelor\u2019s degree in an analytical or technical field\r\n6+ years of investigations experience\r\nFluency in Arabic, native speaker preferred\r\nAbility to interpret information from multiple sources and work with large data sets\r\nDemonstrated analytical and problem solving skills\r\nAbility to conduct thorough online investigations\r\nExperience working with law enforcement preferred\r\nPassionate about the subject of criminology on the Internet\r\nAbility to communicate effectively\r\nStrong time management and organizational skills\r\nWillingness to work demanding, inconsistent hours\r\nAbility to work in stressful situations with a sense of urgency\r\nAbility and inclination to protect highly confidential information",
+            "location": 3,
+            "name": "Investigator: Safety Investigations and Protection (Information ",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T16:58:05.228Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nFacebook is seeking an Oracle Middleware Engineer to join the Engineering Infrastructure team and build large scale databases and application systems. We are looking for a talented engineer who can build and support a wide range of internal corporate databases and applications that Facebook relies on to keep the business growing and information safe. This is a full-time position based in our Menlo Park office.\r\nResponsibilities\r\nBuild, scale and administer Facebooks\u2019s internal enterprise RDBMS databases including Weblogic and Fusion.\r\nOwn the technical stack from end-to-end: From servers, OS, Databases, Applications and everything in-between\r\nArchitect next generation large scale distributed databases and application systems with the highest performance and greatest redundancy\r\nScale third party software solutions beyond \u201cvendor recommendations\u201d and \u201cbest practice\u201d\r\nLead various initiatives for Build/Run functions such as: Project support, upgrades, patch application, migrations, re-architecture and capacity planning\r\nDeploy applications in a secure manner\r\nImplement High Availability and Disaster Recovery for both databases and applications\r\nEngineer automated solutions and custom tools, while leveraging Facebook\u2019s internal tools and infrastructure to streamline and reduce operational overhead\r\nParticipate in 24/7 oncall rotations\r\nRequirements\r\nRequired:\r\nB.S. in Computer Science or related field\r\n5+ years Oracle Fusion Middleware and WebLogic experience\r\n5+ years system administration experience in Linux platforms\r\n3+ years WLST/Shell scripting and ideally experience writing PHP, Python or Java\r\n2+ years Oracle Database administration\r\n2+ years experience in the following Oracle products (11g/12c): WebLogic Suite (WLS, Coherence, and Java SE), SOA Suite (Adapters, BEPL, ESB, BAM, Business Rules, OSB, and OWSM), ADF, BPM, WebCenter, OAM, OIM, OBIEE, Hyperion Suite\r\n1+ years experience with common monitoring and configuration management tools such as Nagios, Chef, Oracle Enterprise Manager\r\n",
+            "location": 4,
+            "name": "Oracle Middleware Engineer",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:00:30.958Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nWe\u2019re looking for content strategists to partner with Facebook designers, product managers, researchers and product marketers to plan and create the content for Facebook products, continually improve that content, and evolve Facebook's voice and content standards. \r\n\r\nYou're perfect for this role if you: \r\n\r\n* Are versatile: you're able to plan and write content for web and mobile interfaces, including interaction flows, product tours, transactional emails and launch education materials, as well as apply consistent standards and elevate the overall quality of our work. \r\n* Love both high-level strategy and hands-on writing and editing for web and mobile experiences. \r\n* Understand design thinking and user experience. \r\n* Thrive in a flat, fast-moving organization that uses light-weight process to have a huge impact.\r\nResponsibilities\r\nPlan, write, edit, test and improve content including interface language, product education materials, product names, navigational nomenclature and other content throughout Facebook experiences\r\nHelp apply and maintain consistency with content standards, and evolve Facebook\u2019s voice\r\nCollaborate with designers, researchers, product managers, product marketers and engineers to serve a global content audience\r\nShare your work and give feedback to teammates\r\nPromote content strategy at Facebook and in the broader community of design and content professionals\r\nRequirements\r\n5+ years working with content for web or mobile experiences\r\nExperience with social products preferred\r\nInformation architecture or responsive content experience a plus\r\nPlease include a link to samples of your work that show a breadth of experience across a range of content types. You may wish to show us content you've created for user interfaces, microcopy, user education, direct or transactional emails, style guides or product launch content.\r\n",
+            "location": 2,
+            "name": "Content Strategist",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:01:16.894Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "As an experienced application software engineer on the Oculus content team, you\u2019ll be at the forefront of prototyping, producing and shipping virtual reality experiences. As a technical leader, you will help set direction throughout the development process, partnering with the art and design teams to explore and implement prototypes that set the bar for VR content inside and outside the company\r\n\r\nThe ideal candidate shares our passion for VR and gaming and will apply their expertise to developing revolutionary content for the gaming platform of the future.\r\nResponsibilities\r\nYou will help lead our efforts to develop VR\u2019s potential through the creation of novel interactive experiences.\r\nYou work well in groups. You smoothly coordinate and collaborate across multiple, diverse teams.\r\nExpertise in gameplay prototyping and engineering, working closely with designers in developing and iterating on game mechanics and systems.\r\nCollaborating with internal and external cross-disciplinary teams spanning all disciplines from software to hardware.\r\nRequirements\r\nIndustry experience: 4+ years of software engineering on games.\r\nExtensive experience with 3D\r\nAdvanced experience with OpenGL\r\nSuccessful track record of game development\r\nMobile game development experience a plus\r\nExperience with game engines including Unreal and Unity a plus\r\nExperience shipping multiple high profile and successful games.\r\nCoding expertise: mastery of C/C++ programming on large systems.\r\nSelf-driven: takes initiative on starting projects and stays motivated through completion.\r\nYou thrive in a fast-paced environment where goals and requirements may constantly be changing.\r\n",
+            "location": 5,
+            "name": "Application Software Engineer (Oculus)",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:02:44.454Z",
+            "company": 2,
+            "contact_email": "",
+            "description": "Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.\r\nFacebook is seeking an experienced sales and marketing leader with demonstrated success managing large business categories on a national and long-term scale. The Head of Industry will manage the Facebook monetization of the Education vertical in the US. The ideal candidate will be a creative thinker with the ability to work cross-functionally to develop scalable solutions for the category. They will build and manage a strategically focused / consultative sales team, selling Facebook\u2019s advertising solutions to large online advertisers. They\u2019ll lead a high-caliber team in a business that is experiencing rapid and dramatic growth. We are looking for a self-starter who has demonstrated success, dealing with ambiguity, successfully manage teams and problem-solving leadership with limited oversight. Ideal candidates will have management experience in a sales environment as well as extensive experience selling cross-network online marketing solutions such as integrated sponsorships and display advertising within the industry.\r\nResponsibilities\r\nPlay the lead role in developing the holistic business of the Education vertical\r\nNational responsibility for architecting the strategies to build the category in both developed and undeveloped markets\r\nWork cross-functionally with In-Market teams, Global Regions, Business Operations, Platform, Measurement/Metrics, and Product Marketing to optimize our vertical efforts\r\nConsult with Product Marketing to help shape product development in support of vertical needs\r\nGuide the creation of persuasive presentations and stories that demonstrate the value of Facebook to marketers in the vertical\r\nIdentify the winning strategies and scale the insights throughout the organization\r\nIncrease the effectiveness of the team by recognizing opportunities for new approaches\r\nDevelop and implement best practices for client interaction, sales and services for Facebook, including a good understanding of working with advertisers and agencies\r\nBuild, train and maintain a high performing sales organization with team responsibility\r\nRequirements\r\n10+ years marketing and sales experience, 7+ years in digital media\r\nDigital Media Ad Sales (and Ad Sales Leadership) Industry experience is required\r\nStrong management experience and skills with the ability to manage cross-functional teams and people not directly reporting to you\r\nSkilled storyteller with experience communicating the benefit of marketing opportunities to brands\r\nExceptional communication and presentation skills with an emphasis on translating insights, product information, and data in to client value\r\nAbility to perform well in highly dynamic, rapidly changing environment\r\nRelationships with top marketing decision makers at traditional companies and agencies\r\nDemonstrable success as a leader of change, achieving operational excellence by introducing new performance measures, processes and systems\r\nAvid Facebook user and knowledge of social media, reseller channels and vertical markets\r\nSales management experience\r\nPrefer Education industry and/or heavy direct response experience",
+            "location": 6,
+            "name": "Head of Industry, Education",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:06:10.024Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "This position will be based in the West Region.\r\n\r\nWith the Google Access team, you\u2019ll work on cross-product and cross-team initiatives, working closely with cross-functional team members to refine and evolve our projects, as well as deploy new technologies to markets and communities around the globe. You like being on-the-ground, executing complex projects that bring internet access to people.\r\n\r\nGoogle is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhancements to keep our systems running smoothly. You also ensure that network operations are safe and efficient by monitoring network performance, coordinating planned maintenance, adjusting hardware components and responding to network connectivity issues. Google's complex network generates a constant stream of challenges which require you to continually be innovative with an evolving set of technologies. Keeping the network reliable ensures that our users stay connected with our suite of applications, products and services.\r\n\r\nResponsibilities\r\nOversee the design of the Outside Plant Fiber Network from preliminary design to a fully constructible job package.\r\nProgram manage the production of efficient designs for new development, network relocations and network upgrades.\r\nEstablish relationship with local third-parties and ensure efficient process are in place.\r\nSupport finance metric development, reporting and dashboard reporting.",
+            "location": 7,
+            "name": "Outside Plant Engineering, Google Fiber, West Region",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:06:55.436Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "Google's projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it's your job to keep all the players coordinated on the project's progress and deadlines.\r\n\r\nThis position requires access to defense articles, technical data, or defense services that are subject to the International Traffic in Arms Regulations (ITAR) and equipment and technology that is highly controlled under the Export Administration Regulations (EAR).\r\n\r\nAs a Development Engineer, you will help the Quality Assurance (QA) Manager create a QA system that will accommodate the needs suggested by aviation regulatory agencies world-wide with the capability to scale. You will be responsible for a portion of the QA system and will help educate Titan employees on the benefits of building quality into Titan\u2019s products. You will collaborate with the QA Manager to identify risks and issues, maintain/update appropriate schedules, and report progress to Titan management. You will analyze failed mechanical components with a goal of identifying their mode of failure.\r\n\r\nResponsibilities\r\nHelp the QA Manager create a QA system that satisfies the needs for FAA certification of an unmanned aircraft system (including mechanical, electronic hardware, and software elements) and meets the requirements or guidance of RTCA DO-178C.\r\nAnalyze failed parts to determine root cause and suggest corrective actions to engineering.\r\nCreate, inspect, and audit manufacturing and development processes related to mechanical design.\r\nCreate and maintain documentation as required by regulatory agencies for aviation certification of Titan\u2019s products.\r\nMinimum qualifications\r\n4 years of relevant working experience and 2 years of experience with mechanical components such as wings, fuselage and actuators.\r\n2 years of experience in working within a Quality Assurance system that meets the requirements or guidance of AS-9100 revision C, ISO 9001:2008, or RTCA DO-178C.\r\nExperience with spreadsheet and presentation software, Adobe Acrobat documents, and experience reading mechanical drawings and/or CAD representations.\r\nIn order to access the technical and defense data necessary for this job, applicants must be a U.S. Citizen or currently hold a United States Permanent Resident Card (USCIS Form I-551)\r\nPreferred qualifications\r\nBS degree in mechanical engineering or a related field.\r\nCertification or degree from an organization that teaches Quality Assurance techniques and/or processes.\r\n2 years of experience with FAA QA requirements related to Quality Assurance management.\r\nExperience in a company that builds UAVs.  Participation in failure analyses via a FRACAS (Failure Reporting, Analysis, and Corrective Action System) program.\r\nParticipation in the certification or audit of a company to ISO 9001:2008 or AS-9100 revision C standards.\r\nArea\r\nThe Google Titan Aerospace team is a manufacturer of High Altitude Long Endurance (HALE) solar-powered Unmanned Aerial Vehicles (UAV). Titan Aerospace operates a research and development facility located in Moriarty, New Mexico, where we are working with the FAA to obtain airspace for flight testing within the National Airspace System and Special Airworthiness Certification for the Solara aircraft.",
+            "location": 7,
+            "name": "Development Engineer, Quality, Hardware, Titan Aerospace",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:07:43.039Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "At Google, we work at lightning speed. So when things get in the way of progress, the Business Systems Integration team steps in to remove those roadblocks. The team identifies time-consuming internal processes and then builds solutions that are reliable and scalable enough to work within the size and scope of the company. You listen to and translate Googler needs into high-level technical specifications, design and develop recommended systems and consult with Google executives to ensure smooth implementation. Whether battling large system processes or leveraging our homegrown suite of Google products for Googlers themselves, you help Googlers work faster and more efficiently.\r\n\r\nWith your technical expertise, you build business applications and influence the design of features that improve the reliability of our applications and systems. You also define the scope of technical projects and oversee execution.\r\n\r\nAs a Technical Solutions Consultant in our Android Partner Engineering, you are the engagement manager taking responsibility for the success of our largest Android partnerships. You lead deployments, optimize implementations and integrations to increase business, drive new business opportunities, and manage the overall technical aspects to build strong, successful, long-term partnerships.\r\n\r\nYou are a creative thinker who thrives in a fast-paced, market-driven environment. You are a self-motivated looking to solidify Google's strategic partnerships on Android.\r\n\r\nResponsibilities\r\nPerform implementation reviews, champion new product features, and ensure the prompt and proper resolution of technical challenges.\r\nImprove product feature offerings by providing partner feedback to internal cross-functional teams including Product Management and Engineering.\r\nGuarantee the technical aspects of a partner\u2019s integration (both new and ongoing) by providing necessary documentation and technical guidance.\r\nIdentify, drive, and optimize the business flow from new business opportunities by leveraging Google technologies.\r\nMinimum qualifications\r\nBA/BS degree or equivalent practical experience.\r\nExperience in the mobile/CE/embedded space.\r\nExperience working with embedded systems\r\nPreferred qualifications\r\nFamiliarity with Linux kernel, device driver APIs, chipset, and Android.\r\nSkills in scripting languages, particularly Python and Shell.\r\nKnowledge of Internet technologies.\r\nDemonstrated creative problem-solving approach and strong analytical skills, combined with a strong sense of ownership, and a proactive can-do attitude.\r\nExcellent communication and project management skills, with a track record of handling multiple customers and streams of work\r\nArea\r\nWhether working with next-gen chipset manufacturers or emerging market telcos, Google's Android Partner Engineering team helps solve some of the toughest mobile technology problems. We work with teams throughout Google to develop solutions for strategic partners around the globe. We maintain crucial relationships with and build technical solutions for our long-term partners who are making Android into a world-changing platform. But we're just getting started.",
+            "location": 7,
+            "name": "Android Partner Engineering, Technical Solutions Consultant",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:09:15.047Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "Google's projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You're equally at home explaining your team's analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.\r\n\r\nLocal Guides is a global recognition and reward program for people who love to share their experiences by contributing content to Google Maps, which helps others make more confident local decisions. The Local Guides Team manages this community of users, internally advocating on their behalf for better product experiences, and externally educating them to optimize contributions to Google Maps. The Program Development Team is the branch of the Local Guides Team that manages the web app experience, directs the product strategy and implementation, works closely with engineering to build new features, triages bugs and builds tools and processes that help scale our marketing and education efforts. \r\n\r\nYou are a smart, self-motivated, problem solver who will help us grow our program by building tools that will help us scale our impact. This includes user on-boarding and web apps to broaden our reach. Your work will be filled with interesting challenges, both in web development and in collaborating with many cross-functional partners, ranging from product managers, community managers, marketers and software engineers.\r\n\r\nAs a Technical Program Manager for Local Guides, you're responsible for the development, maintenance and scaling of the Local Guides program. This includes creating front-end experiences for users, as well as building backend functionality and tools for the community team to scale outreach efforts. \r\n\r\nYou understand the user's point of view and are passionate about applying your strong project management acumen to improve the experience for top contributors of local content. You do this by prioritizing and proposing new projects as well as designing and planning new solutions. You will drive cross-functional collaboration with product and engineering teams. You'll use data to take calculated risks and make informed decisions. You'll incorporate user and community manager feedback to improve processes and tools; create thorough documentation to track project progress, and maintain communication of product and feature roadmaps with stakeholders.\r\n\r\nResponsibilities\r\nStructure and execute operational and strategic projects related to the Local Guides program \u2013 develop work plans, gather and synthesize relevant data, lead analysis and develop final recommendations.\r\nEngineer solutions and tools to scale the Local Guides program and to test what can later be built into the product.\r\nDrive multiple technical projects with competing priorities simultaneously, building new features, developing processes for delivering benefits at scale and creating new experiences on the Local Guides website.\r\nCollaborate with the Local Guides community, Marketing and Analyst teams to understand program health, identify necessities for scale and implement solutions based on data.\r\nInteract with all organizational levels, develop and manage project schedules, identify risks and clearly communicate them to project stakeholders, defining problem solving and risk mitigation strategies and facilitating conflict resolution through the full project cycle.",
+            "location": 2,
+            "name": "Technical Program Manager, Local Guides",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:09:47.259Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "Businesses that partner with Google come in all shapes, sizes and market caps, and no one Google advertising solution works for all. Your knowledge of online media combined with your communication skills and analytical abilities shapes how new and existing business grow. Using your influencing and relationship-building skills, you provide Google-caliber client service, research and market analysis. You anticipate how decisions are made, persistently explore and uncover the business needs of Google's key clients and understand how our range of product offerings can grow their business. Working with them, you set the vision and the strategy for how their advertising can reach thousands of users.\r\n\r\nAs an Account Manager, you'll manage relationships with Google's clients, which means you need to be a focused, proactive self-starter, able to multi-task in a fast-paced environment, and sales-focused to help expand the client relationship. Additionally, you're an advisor and consultant, as well as a client advocate within Google. Above all, you are responsible for hitting your targets.\r\n\r\nResponsibilities\r\nTake responsibility for the management of Google's clients.\r\nReport on business figures internally and take ownership with the leader of your vertical.\r\nServe as a liaison with clients regarding new product launches and advertising opportunities.\r\nProvide campaign updates and ensure that our advertisers are satisfied with their ROI.\r\nManage ongoing customer training in all AdWords-related tools.\r\nMinimum qualifications\r\nBA/BS degree or equivalent practical experience.\r\n5 years of experience within account management, sales or marketing.\r\n3 years of experience managing and optimizing AdWords campaigns either within or working with advertisers.\r\nPreferred qualifications\r\nStrong online sales and account management experience.\r\nKnowledge of Google products such as AdWords and AdSense.\r\nIn-depth knowledge of traditional and digital media and its competitive landscape and the ability to work with evolving and emerging products.\r\nDeep interest in and understanding of online advertising, digital media consumption patterns, and branding measurement.\r\nExcellent project management, interpersonal and organizational skills, with the ability to drive and implement ideas in a changing environment.\r\nArea\r\nOur Large Customer Sales teams partner closely with many of the world\u2019s biggest advertisers and agencies to develop digital solutions that build strong businesses and brands. We enjoy a bird\u2019s eye view on the massive transformation occurring as advertising shifts to mobile and online platforms. We're uniquely situated to help shape how companies grow their businesses in the digital age. We advise clients on Google's broad range of products across search, video and mobile to help them connect instantly and seamlessly with their audiences.",
+            "location": 6,
+            "name": "Account Manager, Food and Beverage Vertical",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:10:31.056Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "People Operations strives to revolutionize human resources in the same way that Google has revolutionized search. As a member of the Tech Global People Programs team, you will work closely with HR Business Partners and People Operations teams to deliver global HR programs to Googlers in the Engineering and Product organizations. \r\n\r\nYou will ensure that our HR programs (e.g., promotion, compensation, performance review and recognition) run smoothly. Through this work, you will improve the HR experience for managers, HR Business Partners and Googlers while using data and feedback to constantly search for innovative ways to make our programs run better, faster and smoother.\r\n\r\nYou are a leader who will lead and manage the talent deployment program for the gTech Partners global organization. Until now, we have been organized by product, where people are aligned to roles for indefinite periods of time. In the future, people will work on short- to medium-term projects that can span across products and verticals. This concept of this staffing deployment model was recently launched. \r\n\r\nYou will play a strategic role in the ongoing development and management of the program. You are a hands-on highly collaborative leader, who can partner closely with Managers, Human Resources Business Partners and Individual Contributors to drive our talent management efforts across the business.\r\n\r\nResponsibilities\r\nEnsure overall staffing model success as well as the viability of project marketplace, working closely with the leadership team. Work closely with business leaders, HR business partners and Finance to ensure that the staffing organization is able to support business needs; coordinate with gTech Partners teams and HR to develop existing talent pool (e.g., training)\r\nConsult with the business on talent best practices and approaches, developing materials, tools and frameworks in conjunction with HR and Learning and Development teams\r\nCommunicate project development/scoping best practices and manage project prioritization across the organization\r\nWork to integrate talent initiatives across People Programs (e.g. performance management, promotion, development, staffing, etc.)\r\nSolve problems and get to the root cause of complex talent issues; develop and implement solutions. Create meaningful metrics to measure the experience, success and impact of the staffing model.\r\nMinimum qualifications\r\nBA/BS degree or equivalent practical experience.\r\n10 years of experience in talent management and/or program management or related areas\r\nPreferred qualifications\r\nMBA, or other advanced degree\r\nBackground in a Management Consulting/Services business and/or Human Resources or Organizational Design\r\nProven success in project management and execution, multi-tasking and delegating\r\nSuperb ability to consult, influence, and manage stakeholders\r\nHigh level of comfort with numbers and data analytics\r\nAbility to work effectively cross-functionally with proven track record of driving results. Excellent leadership, organizational, communication, interpersonal and teamwork skills \r\n",
+            "location": 1,
+            "name": "Talent Development & Deployment Manager, gTech Partners",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:11:09.156Z",
+            "company": 3,
+            "contact_email": "",
+            "description": "Businesses that partner with Google come in all shapes, sizes and market caps, and no one Google advertising solution works for all. Your knowledge of online media combined with your communication skills and analytical abilities shapes how new and existing business grow. Using your influencing and relationship-building skills, you provide Google-caliber client service, research and market analysis. You anticipate how decisions are made, persistently explore and uncover the business needs of Google's key clients and understand how our range of product offerings can grow their business. Working with them, you set the vision and the strategy for how their advertising can reach thousands of users.\r\n\r\nAs an Account Manager, you'll manage relationships with clients, which means you are focused, proactive, and able to multi-task in a fast-paced environment. Additionally, you're an advisor and consultant, as well as a client advocate within Google.\r\n\r\nResponsibilities\r\nReport on figures internally with the leader of your vertical.\r\nServe as a liaison to clients regarding new product launches and advertising opportunities.\r\nProvide campaign updates and ensure that our advertisers are satisfied.\r\nManage ongoing customer training in all AdWords-related tools.\r\nMinimum qualifications\r\nBA/BS degree or equivalent practical experience.\r\n5 years of experience managing digital advertising campaigns for clients, with a focus on Search Engine Management (SEM) and AdWords.\r\nPreferred qualifications\r\nAdWords certified with experience in search marketing.\r\nAbility to strategically think and analyze the needs of clients.\r\nProven track record in high productivity and meeting deadlines.\r\nAdvanced level of proficiency in all Google Apps products and excellent competency using spreadsheets and presentation tools.\r\nExcellent business sense, problem solving, project management and analytical skills.\r\nArea\r\nOur Large Customer Sales teams partner closely with many of the world\u2019s biggest advertisers and agencies to develop digital solutions that build strong businesses and brands. We enjoy a bird\u2019s eye view on the massive transformation occurring as advertising shifts to mobile and online platforms. We're uniquely situated to help shape how companies grow their businesses in the digital age. We advise clients on Google's broad range of products across search, video and mobile to help them connect instantly and seamlessly with their audiences.",
+            "location": 2,
+            "name": "Account Manager, Retail Vertical",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:13:51.099Z",
+            "company": 4,
+            "contact_email": "",
+            "description": "Senior Software Engineer, Advanced Development Projects\r\n\r\nAbout Tesla\r\nTesla\u2019s goal is to accelerate the world\u2019s transition to electric mobility with a full range of increasingly affordable electric cars. California-based Tesla designs and manufactures EVs, as well as EV powertrain components for partners such as Toyota and Daimler. Model S is the world\u2019s first premium sedan to be engineered from the ground up as an electric vehicle. Model S was named Motor Trend\u2019s prestigious 2013 Car of the Year, achieved the best safety score of any car ever tested by the NHTSA, and Consumer Reports is calling it the best car it has ever tested.\r\n\r\nTesla Motors is committed to hiring and developing top talent from across the world for any given discipline. Our world-class teams operate with a non-conventional automotive product development philosophy of high inter-disciplinary collaboration, flat organizational structure, and technical contribution at all levels.  You will be expected to challenge and to be challenged, to create, and to innovate. These jobs are not for everyone, you must have a genuine passion for producing the best vehicles in the world. Without passion, you will find what we're trying to do too difficult.\r\nThe Role\r\nTesla Motors is seeking a Senior Software Engineer with 3-5 years of application development experience and preferably a background in real time vision processing. This role will be responsible for prototyping applications related to Tesla\u2019s Infotainment, Body Controls, and Driver Assistance systems. The engineer will evaluate technology leads, create prototype demonstrations, and transfer knowledge to development teams. The ideal candidate should have strong programming skills and familiarity with image processing libraries and API\u2019s like fastCV, OpenCV, and OpenGL.\r\n\r\nRequirements \r\n\r\nPassionate about electrical/electronic systems, new technologies, and cars.\r\nHave a solid understanding of real time computer vision processing algorithms.\r\nExperience working in Linux and familiarity with fastCV, OpenCV, and OpenGL.\r\nExperience with stereo vision, time of flight cameras, facial/gesture recognition, or structure from motion a plus.\r\nHave experience developing applications for mobile platforms.\r\nKeep up to date on latest technologies and developments.\r\nCollaborate with development teams to understand needs and present potential solutions.\r\nCreate prototype applications and integrate into vehicles to demonstrate and showcase technologies.\r\nClearly communicate and present findings and recommendations.\r\nWork closely with development teams to transfer knowledge.\r\nFamiliarity with vehicle systems preferred but not required.\r\nQualifications\r\n\r\nGreater than 5 years\u2019 experience\r\nBS, MSc., or PhD. in Computer Science  or equivalent",
+            "location": 1,
+            "name": "Advanced Development Projects, Sr.Software Engineer",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:14:34.672Z",
+            "company": 4,
+            "contact_email": "",
+            "description": "Advance Driver Assistance Systems, Data Engineer\r\n \r\nAbout Tesla\r\nTesla\u2019s goal is to accelerate the world\u2019s transition to electric mobility with a full range of increasingly affordable electric cars. California-based Tesla designs and manufactures EVs, as well as EV powertrain components for partners such as Toyota and Daimler. Model S is the world\u2019s first premium sedan to be engineered from the ground up as an electric vehicle. Model S was named Motor Trend\u2019s prestigious 2013 Car of the Year, achieved the best safety score of any car ever tested by the NHTSA, and Consumer Reports is calling it the best car it has ever tested.\r\nTesla Motors is committed to hiring and developing top talent from across the world for any given discipline. Our world-class teams operate with a non-conventional automotive product development philosophy of high inter-disciplinary collaboration, flat organizational structure, and technical contribution at all levels.  You will be expected to challenge and to be challenged, to create, and to innovate. These jobs are not for everyone, you must have a genuine passion for producing the best vehicles in the world. Without passion, you will find what we're trying to do too difficult.\r\n \r\nThe Role\r\nAs an Advanced Driver Assistance Systems (ADAS) Data Engineer, you will be part of the team working towards Tesla\u2019s vision of autonomous vehicles. You will work on data analytics for different aspects of the Autopilot system.\r\n \r\nThe Responsibilities\r\n\u2022             Design and develop machine learning algorithms for various areas of vehicle system behavior\r\n\u2022             Architecture design for efficient processing of \u201cbig data\u201d\r\n\u2022             Define environments and models for data science activities\r\n\u2022             Support system design activities for Autopilot systems from data science perspective\r\n\u2022             Manipulate large structured and unstructured data sets\r\n\u2022             Use of prediction models to deliver metrics on system and ADAS feature performance\r\n\u2022             Support system design activities for Autopilot systems with large data statistics\r\n \r\nRequirements\r\nEssential Skills:\r\n\u2022             Strong analytical thinking and solid background in statistics\r\n\u2022             Extensive experience in machine learning in application\r\n\u2022             Experience in shallow and deep architectures\r\n\u2022             Python, Matlab, MySQL\r\n\u2022             Signal processing background\r\n\u2022             Team-player and passionate about developing cutting edge technology with aggressive time plans\r\n\u2022             Experience working with complex simulation models using large-scale measurement data\r\nDesired Skills:\r\n\u2022             PhD in Computer Science or equivalent\r\n\u2022             Systems engineering or control background\r\n\u2022             Experience with existing ADAS technologies is commendable\r\n\u2022             Experience in using simulation tools such as Matlab/Simulink, Prescan.\r\n ",
+            "location": 1,
+            "name": "Senior Software Engineer, Advanced Development Projects  About T",
+            "salary": "",
+            "type": "pt"
+        },
+        "model": "jobs.job",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:15:56.309Z",
+            "company": 4,
+            "contact_email": "",
+            "description": "About Tesla\r\n\r\nTesla\u2019s goal is to accelerate the world\u2019s transition to electric mobility with a full range of increasingly affordable electric cars. California-based Tesla designs and manufactures EVs, as well as EV powertrain components for partners such as Toyota and Daimler. Model S is the world\u2019s first premium sedan to be engineered from the ground up as an electric vehicle. Model S was named Motor Trend\u2019s prestigious 2013 Car of the Year, achieved the best safety score of any car ever tested by the NHTSA, and Consumer Reports is calling it the best car it has ever tested.\r\n\r\nTesla Motors is committed to hiring and developing top talent from across the world for any given discipline. Our world-class teams operate with a non-conventional automotive product development philosophy of high inter-disciplinary collaboration, flat organizational structure, and technical contribution at all levels. You will be expected to challenge and to be challenged, to create, and to innovate. These jobs are not for everyone, you must have a genuine passion for producing the best vehicles in the world. Without passion, you will find what we're trying to do too difficult.\r\n\r\nThe Role\r\n\r\nAs a Senior Exterior Designer at Tesla, you will be responsible for the exterior design development of future Tesla vehicles. You will be part of the team that creates and executes world-class exteriors in terms of form, function and luxury. \r\n\r\n \r\n\r\nUsing your considerable production design experience and innovative thinking, you will primarily be tasked with creating designs for future cars, but may also be called upon for other design tasks (interior, product, etc) based on your skillset. Our design team prides itself on being multitalented and flexible, and we look for the same in our potential candidates. You will report to the Manager of Exterior Design and this position resides in the Los Angeles Design Studio.\r\n\r\n \r\n\r\nResponsibilities\r\n\r\n \r\n\r\nDevelop design proposals for Tesla exteriors, ranging from broad design themes for the entire exterior all the way to component-level design.\r\nCreate compelling sketches that show a vision for the future of Tesla exterior design.\r\nGuide a design from the sketch phase to concept modeling in Alias or clay, and through to A-class surfacing.\r\nWork with engineers to come up with design and engineering solutions that serve the design vision and also fit with the engineering constraints.\r\nParticipate in cross-functional strategy, timing, and process discussion as it pertains to exteriors or exterior components.\r\nWork with color and trim designers to create designs that consider the opportunities and limits of the color and trim vision, and work with them to create a unified vision for the designs.\r\nWork with suppliers to achieve the best possible product in terms of craftsmanship, cost, and engineering, while also staying as close to the design vision as possible.\r\nMentor junior designers and provide technique/approach guidance where needed between reviews.\r\nCollaborate with the fabrication team to complete prototypes when necessary.\r\nOccasionally participate in non-exterior design efforts as necessity and your own skillset dictates.\r\nRequirements\r\n\r\nBachelor\u2019s or Master\u2019s degree in Automotive or Transportation Design with a minimum of 6 years of experience in automotive design, preferably with significant time spent on production cars.\r\nMust understand the fundamental differences in design and engineering of premium cars and have examples or a portfolio of completed programs.\r\nMust have in-depth technical knowledge of prototyping, manufacturing, and assembly processes as it relates to automobiles.\r\nHigh level of skill taking 2D sketches to 3D modeling in Alias and clay.\r\nExcellent at creating and maintaining cross-functional working relationships.\r\nExceptional visual and oral communication skills.\r\nMust be self-motivated and able to manage multiple parallel-path projects.\r\nDemonstrated an ability to deliver successful designs under tight timing constraints and provide examples of such scenarios throughout career.",
+            "location": 8,
+            "name": "Sr. Designer- Exterior",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:16:35.371Z",
+            "company": 4,
+            "contact_email": "",
+            "description": "About Tesla\r\n\r\nTesla\u2019s goal is to accelerate the world\u2019s transition to electric mobility with a full range of increasingly affordable electric cars. California-based Tesla designs and manufactures EVs, as well as EV powertrain components for partners such as Toyota and Daimler. In Q1 of 2013 Tesla has delivered more than 10,000 electric vehicles to customers in 31 countries. Tesla\u2019s Model S is the world\u2019s first premium sedan designed and engineered from the ground up as an electric vehicle and was named Automobile Magazine\u2019s 2013 Automobile of the Year and Motor Trend\u2019s prestigious 2013 Car of the Year.\r\n\r\nThe Role\r\n\r\nTesla is currently seeking a Desktop Support Technician to join our team in Tokyo. \r\n\r\nThe IT Services position within the IT Operations team will be on the front lines of Tesla Motors\u2019 IT systems support. IT Desktop Technicians will be the face of IT for internal customers. The primary task of this position will be to troubleshoot and resolve endpoint issues, install and support the systems, and assist with the day-to-day operations for Tesla\u2019s global IT infrastructure to provide for the growth of Tesla\u2019s initiatives. These duties will be performed in compliance with policy guidelines and within timeframes as defined in the team\u2019s SLAs and/or project requirements.\r\n\r\nSummary\r\n\r\nProvide day-to-day delivery and technical support for end-users of desktop applications, telephones, handheld email devices, printers and computer hardware.\r\n\r\nResponsibilities\r\n\r\n35% Supports Windows desktop OS. Diagnoses and troubleshoots computer and general network issues.\r\n10% Provides timely resolution of end user problems\r\n20% Provide support for field personnel remote communications and connectivity\r\n10% Basic administration of phone systems\r\n25% As necessary, performs other duties as required.\r\nQualifications\r\n\r\nEducation: \r\n\r\nRequires a bachelor\u2019s degree in computer science or equivalent training/education\r\nKnowledge and Experience: \r\n\r\nRequires 5+ years experience in desktop support\r\nRequires basic knowledge of phone system support\r\nKnowledge of computer applications (i.e.: Microsoft Word, Excel, PowerPoint, Access & Project, Windows, Visio, etc.) required\r\nKnowledge of Windows environment and computer hardware and software at an intermediate or advanced level\r\nExperienced in remote customer support including wireless LAN access, VPN, DSL, and Cable services.\r\nExperience in Backups, Active Directory, Exchange 2007\\2010, and Windows server environments\r\nExperienced in supporting PDA\u2019s (Blackberry, Droid, iPhone and iPad).\r\nExperienced in supporting senior level executives\r\nExperienced in Altiris (Imaging, packaging, scripting)\r\nExceptional communication skills, both oral and written in English and Japanese.\r\nLicenses and Certifications:\r\n\r\nMicrosoft Certified Professional\r\nHDI Preferred\r\nITIL Foundation\r\nAdditional Desirable Qualifications: \r\n\r\nShoreTel VOIP Administration\r\nTroubleshoot Call Routing\r\nBuild new huntgroups, workgroups and auto attendants\r\nConfiguring new sites and trunks\r\nConfiguring and Installing new hardware\r\nWork with Sales and Service Teams to ensure proper operation of customer call flow\r\nEscalate advanced issues as needed with ShoreTel support.\r\nSkills and abilities: \r\n\r\nExcellent customer service skills.\r\nAbility to communicate effectively both orally and in writing and to establish and maintain cooperative working relationships with persons contacted in the course of performing assigned duties including Company management and outside business associates\r\nStrong attention to details with excellent follow up.\r\nAbility to work independently or with minimal supervision\r\nAbility to maintain confidentiality\r\nAbility to exercise independent judgment consistent with department guidelines\\standards\r\nAbility to organize and prioritize workflow and to meet established timeframes\r\nAbility to maintain updated knowledge of procedures, products and activities of assigned area\r\nAbility to adhere/respond to established time frames and schedules\r\nAbility to operate a personal computer and related software\r\nAbility to work overtime, weekend and after hours along with an on call rotation.\r\nProblem Solving and Decision Making: \r\n\r\nWork is performed under general direction; participates in determining objectives of assignment; work is reviewed for adequacy in meeting objectives.\r\nPhysical Requirements: \r\n\r\nAbility to hear and speak to employees and outside business associates on the phone and in person.\r\nAbility to see the letters and numbers on a personal computer screen and on memos, reports and other documents (near vision).\r\nAbility to lift and push/pull up to 25 lbs.\r\nRequires moderate right and left hand coordination for the use of the personal computer.\r\nSupervisory Responsibility: \r\n\r\nNone\r\nTravel Requirements: \r\n\r\nTravel to and from Tesla offices both domestically and internationally required\r\nTesla Motors is committed to a policy of equal employment opportunity. We recruit, employ, train, compensate, and promote without regard to race, color, age, sex, ancestry, marital status, religion, national origin, physical or mental disability, sexual orientation, gender identity, medical condition, pregnancy, veteran status, genetic information or any other classification protected by state or federal law.",
+            "location": 8,
+            "name": "IT - Desktop Support Technician",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:19:21.857Z",
+            "company": 5,
+            "contact_email": "",
+            "description": "Ubisoft Entertainment, a global leader in the video games and entertainment software industry, is currently seeking a full-time Gameplay Programmer.  We are looking for a highly talented, motivated and experienced person for a new multiplatform AAA project based in our San Francisco studio.\r\n\r\nYou would be working on bringing gameplay features to life. You should have a solid background in what makes gameplay fun and how to implement those features in an efficient way. You will work on a small collaboration-oriented team where you will have the opportunity to contribute in meaningful ways.\r\n\r\nRESPONSIBILITIES:\r\n- Work with the lead engineer to develop gameplay features and systems\r\n- Collaborate with the design team to ensure features match expectations\r\n- Maintain and extend documentation on gameplay-oriented features and systems\r\n- Self-manage programming task schedule updates and coordinate with production team\r\n- Work with design team to ensure that gameplay systems are used properly\r\n\r\nQUALIFICATIONS:\r\n- 5+ years of experience in programming/engineering development\r\n- Shipped 2+ published titles as Gameplay Programmer for PS4, PS3, Xbox One, 360, PC, or MacOS\r\n- Bachelor's degree in software engineering, computer science, or equivalent\r\n- Experienced in developing and implementing key gameplay systems\r\n- Strong C/C++ development and optimization skills\r\n- Strong knowledge of scripting languages (Lua, Python, Perl)\r\n- Work well with designers and artists to implement the vision of the game\r\n- Strong verbal and written communication skills\r\n\r\nPREFERRED SKILLS:\r\n- Strong knowledge of performance/memory constraints of game software required\r\n- Experience on the new generation of consoles (PS4, Xbox One)\r\n- Strong debugging skills\r\n- Strong mathematical skills\r\n\r\nAbout Ubisoft:\r\nUbisoft is a leading creator, publisher and distributor of interactive entertainment and services, with a rich portfolio of world-renowned brands, including Assassin\u2019s Creed, Just Dance, Tom Clancy\u2019s video game series, Rayman, Far Cry and Watch Dogs. The teams throughout Ubisoft\u2019s worldwide network of studios and business offices are committed to delivering original and memorable gaming experiences across all popular platforms, including consoles, mobile phones, tablets and PCs. For the 2014-15 fiscal year Ubisoft generated sales of \u20ac1,464 million. To learn more, please visit www.ubisoftgroup.com.",
+            "location": 1,
+            "name": "Gameplay Programmer",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:21:23.314Z",
+            "company": 6,
+            "contact_email": "",
+            "description": "At Oculus Future Media we\u2019re incubating teams that explore the boundaries of what can be done in VR. As a software engineer, you\u2019ll be part of a small, agile team of engineers and artists working to figure out how we build novel experiences and create artwork in virtual reality. Ideal candidates are excellent C++ programmers that are self-motivated, thrive in a collaborative environment, take well-calculated risks, explore unproven technology directions, and love bringing their successful research to a fully-formed production-ready state. You've probably read a research paper or presentation in the last week, compared it to prior techniques, and likely complained about an edge case it doesn't handle! You will be expected to understand the deepest technological details while constantly keeping a thoughtful eye on our overarching goal: building incredible user experiences.\r\n\r\nResponsibilities\r\n\r\nResearch and develop production-ready software for VR content creation\r\nKeep up-to-date on historical and emerging technology on 3D rendering, lighting, surface representation and tracking, VR, and related fields\r\nWillingness to improve upon all aspects of the experiences we create: from core technology to user interface\r\nDevelop and maintain engine facilities to support the rest of the team\r\nRequirements\r\n\r\nBachelor\u2019s degree or more in Computer Science, Mathematics, or related field or equivalent professional experience\r\n4+ years of experience developing and debugging non-trivial software systems in C++\r\nComfortable researching novel and adapting existing technology to new applications, navigating tradeoffs by considering both technical restrictions and the end-user experience\r\nStrong grounding in 3D math, linear algebra\r\nExperience writing performance-critical software, and performing low-level and algorithmic optimizations\r\nFamiliarity with OpenGL or D3D, how graphics hardware functions, and how it can be efficiently utilized is ideal\r\nExperience with game-oriented content pipelines and content creation tools (Maya/Max/ZBrush/Mudbox) are a plus\r\n",
+            "location": 1,
+            "name": "Software Engineer, Future Media",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:23:12.082Z",
+            "company": 7,
+            "contact_email": "",
+            "description": "Responsibilities:\r\nBuild lifetime quality financial relationships with each member by providing competitive products and excellent service.\r\n\r\nSupports project plans as the key for technical tasks, work effort and resource requirements to complete project initiatives.\r\nDetermine technical feasibility of providing or modifying automated solutions to business problems/opportunities.\r\nAnalysis\u2019 the existing environment and systems and develops alternative/improved operational performance.\r\nDesigns, modifies, develops, writes and implements software programming applications using current programming and /or proprietary software languages.\r\nWorks with other Analysts or acts as a consultant on projects providing technical guidance.\r\nResponds to end-user calls for trouble-shooting, problem solving and guidance.\r\nDevelops ad hoc reports against the credit union\u2019s data for the user community as needed.\r\n\r\nRequirements:\r\n\r\n.NET Technology, XML/XSLT, JavaScript, VB Script, Crystal Reports 10+, MS SQLServer, Visual Studio 2012 and above.\r\nShould be able to work with SQL 2012/2016\r\nThree to five years (or equivalent) experience in developing applications on web based platforms.\r\nMobile application development (Apple, and Android) Experience.\r\nExperience with SharePoint programming is a BIG PLUS.\r\nExperience in a Banking/ Credit Union environment with Symitar desired.\r\nBachelors degree in Computer Science or related field or relative experience.\r\nExcellent writing, verbal, communication and presentation skills are required.",
+            "location": 2,
+            "name": "Programmer Analyst",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:24:24.939Z",
+            "company": 8,
+            "contact_email": "",
+            "description": "Description: A client of Kforce located in New York, New York (NY) is looking to hire a well rounded Fullstack Senior Software Engineer. Candidate should have a background in Java, but be open to other tech stacks, including Ruby and or Python. The client is a very well established organization with a specialty in ecommerce and small business marketing. The team is very entrepreneurial and are creative problem solvers. It's a vibrant, fast paced environment and the successful candidate will be working with extremely smart and successful people that love what they do. The company offers a very competitive salary plus bonus and a generous benefits package. Job Details and Duties:\r\nThe engineers work on everything from backend, user-interface, and content management to messaging, database systems, and web services; regardless of which components are touched, they will want the candidate to be involved in designing, coding, testing and running the systems\r\nEngineers solve a variety of complex and challenging business problems using cutting edge technology\r\nThey are constantly innovating; they look at ways to improve core products, seek out products in the market that can be built better, and keep an eye on industry and technology trends to stay ahead of the competition\r\nThey have shared ownership of the code base; anyone can and is expected to work on and improve any piece of code; there are no silos\r\nThey explore new technologies and find the best tools for the job; while Java is the predominant language, they are using Scala, JavaScript, Python, and Groovy\r\nRequirements:\r\nBA/BS degree in Computer Science or above program preferred\r\n4+ years of experience\r\nExcellent coding and design skills; software that works, is reliable, testable and maintainable should be default\r\nEnjoy writing software and take pride in what is built\r\nHaving programmed in Java will help the candidate get going faster, but primary languages aren't as important as being a great programmer\r\nSQL proficiency, particularly with PostgreSQL is a plus\r\nStrong communications skills, both written and verbal\r\n",
+            "location": 2,
+            "name": "Senior Fullstack Developer - Java-Scala-Web",
+            "salary": "",
+            "type": "ct"
+        },
+        "model": "jobs.job",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "added_at": "2015-08-01T17:24:47.070Z",
+            "company": 8,
+            "contact_email": "",
+            "description": "Description: A Kforce client is seeking a Senior Developer Lead - C# / ASP.NET / Web Services / SQL in New York, New York (NY). As a Senior/Lead Developer, the candidate will be expected to lead development efforts on projects. This includes design and implementation of the software, as well as organizing other developers on larger projects. Job Description: The key job responsibilities include, but are not limited to interfacing closely with the business users throughout the project lifecycle. The Senior Programmers are considered partners with the business users and are expected to not simply implement requirements - rather, they are expected to work closely with the business users to come up with solutions to business problems. Once the solutions have been well defined, the Senior Programmer designs and implements the software, and sees the project through quality assurance and user assurance testing phases. Ultimately, the Senior Programmer is the one who is responsible for the success of the project.\r\nRequirements:\r\n5+ years using C++, Java, or C#\r\n3+ years using SQL\r\nBS in Computer Science, Engineering, or a related major\r\nStrong written and oral communications skills are an absolute necessity\r\nKnowledge of the finance industry is encouraged but not an absolute requirement\r\nExperience with portfolio management and a wide variety of asset types will be useful to the candidate\r\nMust have expertise in all three of these areas, although C# is an acceptable substitute for C++ or Java\r\n",
+            "location": 2,
+            "name": "Senior Developer - C# / ASP.NET / SQL Server",
+            "salary": "",
+            "type": "ft"
+        },
+        "model": "jobs.job",
+        "pk": 36
+    }
+]
