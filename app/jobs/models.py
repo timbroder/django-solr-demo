@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.localflavor.us import models as us_models
+from localflavor.us import models as us_models
 
 JOB_TYPES = (
     ('pt', 'Part Time'),

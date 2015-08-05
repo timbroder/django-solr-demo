@@ -3,3 +3,5 @@
 myenv/
 app/app/local_settings.py
 *bak
+.idea
+*.pyc
