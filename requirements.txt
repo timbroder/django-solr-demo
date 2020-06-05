@@ -1,4 +1,4 @@
-Django==1.11.23
+Django==1.11.29
 argparse==1.2.1
 django-haystack==2.4.0
 django-localflavor==1.1
